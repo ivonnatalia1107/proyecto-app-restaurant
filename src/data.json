@@ -6,7 +6,7 @@
       "description":"Té negro con muchas especias de la India: canela, cardamomo, jengibre, clavo de olor, pimienta negra, anís estrella y anís semilla.",
       "price": "$3.000 CLP",
       "sku" :"1",
-      "src": "public/pics/chai.webp"
+      "src": "images/chai.webp"
     },
     {
       "name": "Té Matcha",
@@ -14,7 +14,7 @@
       "description":"Es la hoja más joven del té verde (Camellia sinensis) que es protegida del sol y luego es convertida en polvo. El té de matcha sirve para aumentar el metabolismo, promoviendo la pérdida de peso, reducir el estrés, mejorar el humor y la memoria, cuidar la salud del hígado, prevenir el envejecimiento.",
       "price": "$4.200 CLP",
       "sku": "2",
-      "src": "public/pics/matcha.jpg"
+      "src": "images/matcha.jpg"
     },
     {
       "name": "Té Oolong",
@@ -22,7 +22,7 @@
       "description":"té azul o té semifermentado, es una variedad de té chino que se encuentra entre el té negro y el té verde, siendo una de las variedades de té más valoradas en la actualidad. Tiene muchas propiedades, especialmente a los antioxidantes, pero también a su singular sabor, muy reconocible y apreciado.",
       "price": "$4.000 CLP",
       "sku": "3",
-      "src": "public/pics/oolong.jpg"
+      "src": "images/oolong.jpg"
     },
     {
       "name": "Té Amarillo",
@@ -30,7 +30,7 @@
       "description":"Es una variedad con importante presencia de polifenoles, sustancias que actúan contra el estrés oxidativo o desbalance bioquímico que se produce en el cuerpo.",
       "price": "$3.500 CLP",
       "sku": "4",
-      "src": "amarillo.png"
+      "src": "images/amarillo.jpg"
     },
     {
       "name": "Té Rojo",
@@ -38,7 +38,7 @@
       "description":"Tiene propiedades diuréticas, digestivas, desintoxicantes, antioxidantes y estimulantes.",
       "price": "$3.000 CLP",
       "sku": "5",
-      "src": "public/pics/rojo.webp"
+      "src": "images/rojo.webp"
     },
     {
       "name": "Té Blanco",
@@ -46,7 +46,7 @@
       "description":"Es rico en antioxidantes, aporta micronutrientes, polifenoles y otras sustancias beneficiosas para nuestro organismo, evitando problemas cardiovasculares y fortaleciendo el sistema inmunitario.",
       "price": "$4.000 CLP",
       "sku": "6",
-      "src": "public/pics/blanco.webp"
+      "src": "images/blanco.webp"
     }
 
 
