@@ -30,7 +30,7 @@
       "description":"Es una variedad con importante presencia de polifenoles, sustancias que actúan contra el estrés oxidativo o desbalance bioquímico que se produce en el cuerpo.",
       "price": "$3.500 CLP",
       "sku": "4",
-      "src": "../assets/amarillo.png"
+      "src": "amarillo.png"
     },
     {
       "name": "Té Rojo",
