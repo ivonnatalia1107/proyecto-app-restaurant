@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@1,700&family=Prompt:wght@100&display=swap');
+
+*{ 
+    font-family: 'Prompt', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.firstNav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.logo {
+
+height: 150px;
+width: 150px;
+
+
+}
+
+.slogan {
+    text-align: center;
+    padding: 10px;
+
+}
