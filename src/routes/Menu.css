@@ -21,6 +21,10 @@
     padding: 1%;
 }
 
+.descriptionTitle{
+    text-align: center;
+}
+
 .bodyCard {
 
     border: 3px solid black;

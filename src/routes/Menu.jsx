@@ -8,6 +8,7 @@ export default function Menu() {
   return (
     <>
       <div className='title'>Nuestras té-licias</div>
+      <p className='descriptionTitle'>Todas las variedades incluyen un trozo de las opciones de pasteles del dia </p>
       <div className='menu'>
         {
           data.drinks.map(drink => (
