@@ -21,7 +21,6 @@ export default function Introduction() {
 
 <Link to="/Menu">Conoce nuestras Té-licias</Link>
 
-<Link to="/Ubicacion">Conoce nuestra ubicación</Link>
 </div>
 </div>
 

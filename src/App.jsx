@@ -2,7 +2,8 @@ import { Route, Routes } from "react-router-dom"
 import { NavBar } from "./components/NavBar"
 import Introduction from "./routes/introduction"
 import Menu from "./routes/menu"
-import Location from "./routes/location"
+import Header from "./components/Header"
+
 
 
 function App() {
@@ -13,8 +14,8 @@ function App() {
 <Routes>
   <Route path="/" element={<Introduction/>}/>
   <Route path="/menu" element={<Menu/>}/>
-  <Route path="/ubicacion" element={<Location/>}/>
 </Routes>
+<Header title='Desarrollada por Ivon Nancupil' />
 </>
   )
 }

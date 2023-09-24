@@ -6,6 +6,7 @@ import { useEffect } from 'react'
 
 export default function Form() {
 
+
     const clientsColletionRef = collection(db, 'datos')
 
     const getData = async () => {
@@ -39,12 +40,14 @@ const crearCliente = async() => {
 
 }
 
+    
 
     return (
         <>
+
             <div className='contactForm'>
                 <div className='container mt-4'>
-                    <h1>¿Tienes alguna duda? Te contactamos! </h1>
+                    <h1>props.title</h1>
                     <form className='row' onSubmit={preventDefault}>
 
                     <div className='col-md-4'>

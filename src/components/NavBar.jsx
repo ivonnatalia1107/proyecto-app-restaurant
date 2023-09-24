@@ -21,7 +21,6 @@ export const NavBar = () => {
             <Nav className="me-auto">
               <Nav.Link as ={Link} to="/">Inicio</Nav.Link>
               <Nav.Link as ={Link} to="/menu">Nuestras té-licias</Nav.Link>
-              <Nav.Link as ={Link} to="/ubicacion">Ubicación</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </div>
